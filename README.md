@@ -1,4 +1,4 @@
-# Reddit 
+# Reddit API Data Request with User Input
 ## Overview
 This program allows for user input in the format "{subreddit}, {number of posts}, {timeframe}, {sort category}", and queries the reddit API for the specified data. It parses the returned JSON file and outputs the data as a .csv file. Requested parameters (column variables) can be changed within the code.
 
